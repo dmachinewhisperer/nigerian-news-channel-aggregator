@@ -59,3 +59,6 @@ Run `install.sh` to set up a systemd timer and unit files to automatically run t
 - `install.sh`: Shell script for installation.
 - `dbtool.py`: Simple script for interacting with SQLite databases (it is self-documenting).
 - `sites.json`: RSS links of Nigerian news publishers. Maintained here [https://github.com/dmachinewhisperer/nigerian-news-channel-rss-feeds](https://github.com/dmachinewhisperer/nigerian-news-channel-rss-feeds). A static copy is included here, but check the repo for the newest copies.
+
+## License
+MIT
