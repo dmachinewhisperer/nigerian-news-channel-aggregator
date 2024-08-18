@@ -1,0 +1,63 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+.env
+*.log
+*.coverage
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Flask-specific
+instance/
+.env/
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db
+*.log
+*.coverage
+*.DS_Store
+*.env
+
+# React
+node_modules/
+build/
+*.log
+*.env
+*.DS_Store
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Misc
+*.bak
+*.tmp
+*.orig
+*.swp
+
+rss-feeds/
+migrations/
+sites-validated.json
+venv
