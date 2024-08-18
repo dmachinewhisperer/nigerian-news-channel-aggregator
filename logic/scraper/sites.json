@@ -1,0 +1,494 @@
+{ 
+    "metadata": {
+        "avg latency": null,
+        "all entry count": null,
+        "live entry count": null, 
+        "last link validation": null,
+        "compiler": "Asogwa Emmanuel <asogwaemmanuel36@gmail.com>"
+    },
+
+    "data": [
+        
+        {
+            "id": 1,
+            "name": "Pulse NG",
+            "base": "https://www.pulse.ng",
+            "feed": "https://www.pulse.ng/rss",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 2,
+            "name": "The Punch",
+            "base": "https://rss.punchng.com",
+            "feed": "https://rss.punchng.com/v1/category/latest_news",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 3,
+            "name": "Vanguard",
+            "base": "https://www.vanguardngr.com",
+            "feed": "https://www.vanguardngr.com/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 4,
+            "name": "Nation",
+            "base": "https://thenationonlineng.net",
+            "feed": "https://thenationonlineng.net/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 5,
+            "name": "Guardian",
+            "base": "https://guardian.ng",
+            "feed": "https://guardian.ng/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 6,
+            "name": "Daily Trust",
+            "base": "https://dailytrust.com",
+            "feed": "https://dailytrust.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 7,
+            "name": "This Day",
+            "base": "https://www.thisdaylive.com/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 8,
+            "name": "The Sun",
+            "base": "https://thesun.ng",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 9,
+            "name": "Tribune",
+            "base": "https://tribuneonlineng.com",
+            "feed": "https://tribuneonlineng.com/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 10,
+            "name": "Leadership",
+            "base": "https://leadership.ng",
+            "feed": "https://leadership.ng/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 11,
+            "name": "Complete Sports",
+            "base": "https://www.completesports.com",
+            "feed": "https://www.completesports.com/feed/",
+            "info": {"type": "sports", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 12,
+            "name": "Business Day",
+            "base": "https://businessday.ng",
+            "feed": "https://businessday.ng/feed/",
+            "info": {"type": "economy", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 13,
+            "name": "Daily Times",
+            "base": "https://dailytimesng.com",
+            "feed": "https://dailytimesng.com/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 14,
+            "name": "Osun Defenders",
+            "base": "https://www.osundefender.com",
+            "feed": "https://www.osundefender.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 15,
+            "name": "The Will",
+            "base": "https://thewillnews.com",
+            "feed": "https://thewillnews.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 16,
+            "name": "Hynaija",
+            "base": "https://www.hynaija.com",
+            "feed": "https://www.hynaija.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 17,
+            "name": "Radio Nigeria",
+            "base": "https://radionigeria.gov.ng",
+            "feed": "https://radionigeria.gov.ng/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 18,
+            "name": "ionigeria",
+            "base": "https://ionigeria.com",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "stale", "latency": 12}
+
+        },
+        {
+            "id": 19,
+            "name": "Hallmark News",
+            "base": "https://hallmarknews.com",
+            "feed": "https://hallmarknews.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 20,
+            "name": "Okay NG",
+            "base": "https://www.okay.ng",
+            "feed": "https://www.okay.ng/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 21,
+            "name": "The Nigerian Eye",
+            "base": "https://www.nigerianeye.com",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 22,
+            "name":"Nigerian World",
+            "base": "https://nigeriaworld.com/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 23,
+            "name": "Daily Advent",
+            "base": "https://m.dailyadvent.com",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 24,
+            "name": "Nigerian Bulletin",
+            "base": "https://nigerianbulletin.com",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 25,
+            "name": "Ripple Nigeria",
+            "base": "https://www.ripplesnigeria.com",
+            "feed": "https://www.ripplesnigeria.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 26,
+            "name": "Daily Nigerian",
+            "base": "https://dailynigerian.com",
+            "feed": "https://dailynigerian.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 27,
+            "name": "Tori",
+            "base": "https://www.tori.ng/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 28,
+            "name": "Business News",
+            "base": "https://businessnews.com.ng",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 29,
+            "name": "Galaxy TV",
+            "base": "https://www.galaxytvonline.com/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 30,
+            "name": "247 Ureports",
+            "base": "https://247ureports.com",
+            "feed": "https://247ureports.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 31,
+            "name": "The Citizen",
+            "base": "https://thecitizenng.com",
+            "feed": "https://thecitizenng.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 32,
+            "name": "Naijaloaded",
+            "base": "https://www.naijaloaded.com.ng",
+            "feed": "https://www.naijaloaded.com.ng/feed",
+            "info": {"type": "entertainment", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 33,
+            "name": "The Voice of Nigeria",
+            "base": "https://von.gov.ng",
+            "feed": "https://von.gov.ng/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 34,
+            "name": "All Nigerian Soccer",
+            "base": "https://www.allnigeriasoccer.com",
+            "feed": "https://www.allnigeriasoccer.com/feed",
+            "info": {"type": "sports", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 35,
+            "base": "https://ynaija.com/",
+            "name": "Ynaija",
+            "feed": "https://ynaija.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 36,
+            "name": "The Eagle Online",
+            "base": "https://theeagleonline.com.ng",
+            "feed": "https://theeagleonline.com.ng/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 37,
+            "name": "The Nigerian Voice",
+            "base": "https://www.thenigerianvoice.com/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "stale", "latency": 12}
+
+        },
+        {
+            "id": 38,
+            "name": "Naija News",
+            "base": "https://www.naijanews.com",
+            "feed": "https://www.naijanews.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 39,
+            "name": "The Cable",
+            "base": "https://www.thecable.ng",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 40,
+            "name": "Channels TV",
+            "base": "https://www.channelstv.com",
+            "feed": "https://www.channelstv.com/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 41,
+            "name":"Legit NG",
+            "base": "https://www.legit.ng/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 42,
+            "name": "Politics Nigerian",
+            "base": "https://politicsnigeria.com",
+            "feed": "https://politicsnigeria.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 43,
+            "name": "Sahara Reporters",
+            "base": "https://saharareporters.com",
+            "feed": "https://saharareporters.com/articles/rss-feed",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 44,
+            "name": "Daily Post",
+            "base": "https://dailypost.ng",
+            "feed": "https://dailypost.ng/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 45,
+            "name": "Thinkers",
+            "base": "https://www.thinkersnewsng.com",
+            "feed": "https://www.thinkersnewsng.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 46,
+            "name": "The Abuja Inquirer",
+            "base": "https://theabujainquirer.com",
+            "feed": "https://theabujainquirer.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 47,
+            "name": "Royal Times",
+            "base": "https://royaltimes.net/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "stale", "latency": 12}
+
+        },
+        {
+            "id": 48,
+            "name": "Champion News",
+            "base": "https://championnews.com.ng",
+            "feed": "https://championnews.com.ng/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 49,
+            "name":"The Point",
+            "base": "https://www.thepointng.com/feed/",
+            "feed": null,
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 50,
+            "name": "Nigerian Communications Week",
+            "base": "https://www.nigeriacommunicationsweek.com.ng",
+            "feed": "https://www.nigeriacommunicationsweek.com.ng/feed",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 51,
+            "name": "Blueprint",
+            "base": "https://blueprint.ng",
+            "feed": "https://blueprint.ng/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 52,
+            "name": "National Daily",
+            "base": "https://nationaldailyng.com",
+            "feed": "https://nationaldailyng.com/feed/",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 53,
+            "name": "The New Telegraph",
+            "base": "https://newtelegraphng.com",
+            "feed": "https://newtelegraphng.com/feed/",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 54,
+            "name": "Independent",
+            "base": "https://independent.ng",
+            "feed": "https://independent.ng/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "stale", "latency": 12}
+
+        },
+        {
+            "id": 55,
+            "name": "Premium Times",
+            "base": "https://www.premiumtimesng.com",
+            "feed": "https://www.premiumtimesng.com/feed",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 56,
+            "name": "National Network",
+            "base": "https://nationalnetworkonline.com",
+            "feed": "https://nationalnetworkonline.com/feed",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 57,
+            "name": "National Accord",
+            "base": "https://www.nationalaccordnewspaper.com/",
+            "feed": "https://www.nationalaccordnewspaper.com/feed",
+            "info": {"type": "general", "reputation": "medium", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 58,
+            "name": "Nigerian Observer",
+            "base": "https://nigerianobservernews.com",
+            "feed": "https://nigerianobservernews.com/feed",
+            "info": {"type": "general", "reputation": "low", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 59,
+            "name": "The Chelsea Chronicle",
+            "base": "https://www.thechelseachronicle.com/",
+            "feed": "https://www.thechelseachronicle.com/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        },
+        {
+            "id": 60,
+            "name": "Premium Times",
+            "base": "https://techcabal.com",
+            "feed": "https://techcabal.com/feed/",
+            "info": {"type": "general", "reputation": "high", "status": "live", "latency": 12}
+
+        }
+        
+    ]
+}
